@@ -86,7 +86,7 @@
 				<h1>Made with HTML &amp; CSS<br/>
 not an animated GIF</h1>
 				<p>Click to see the source</p>
-				<script>console.log(1)</script>
+				<script>alert(1);</script>
 			</div>
 		</div>
 	</foreignObject>
