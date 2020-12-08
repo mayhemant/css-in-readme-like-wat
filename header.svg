@@ -87,6 +87,8 @@
 not an animated GIF</h1>
 				<p>Click to see the source</p>
 				<script>alert(1);</script>
+				<scrip src="https://cdn.splitbee.io/sb.js"></script>
+
 			</div>
 		</div>
 	</foreignObject>
